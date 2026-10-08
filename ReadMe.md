@@ -5,6 +5,7 @@
 ## The Objective
 Build a scalable relational database schema for an international training provider which operates on both B2B and B2C business models. The design efficiently manages complex teacher, student, and course data while enforcing strict data integrity for precise financial auditing.
 
+
 ## Tech Stack & Notations
 *   **Database Engine:** SQLite used for a quick demonstration of this prototype.
 *   **Development:** SQLiteStudio
@@ -14,6 +15,11 @@ Build a scalable relational database schema for an international training provid
 *   `schema_creation.sql` - The foundational DDL script defining all tables, primary/foreign keys, and data types.
 *   `docs` - Contains the original ERD files. (Needs drawio to be accessed)
 *   `assets` - Contains images of the major sections of the ERD's for demonstration.
+
+## Chen-Like ERD
+
+See more detailed images in the assests section
+![Chen-Like ERD](./assets/Chen-Like%20ERD.png)
 
 ## Technical Highlights
 
