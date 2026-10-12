@@ -1,6 +1,6 @@
 # Learning Management System (LMS) Database Architecture
 
-*Note: This repository showcases my university database architecture project. It showcases the final schema design, business logic implementation, and SQL scripts.*
+*Note: This repository demonstrates my university database architecture project. It showcases the final schema design, business logic implementation, and SQL scripts.*
 
 ## The Objective
 Build a scalable relational database schema for an international training provider which operates on both B2B and B2C business models. The design efficiently manages complex teacher, student, and course data while enforcing strict data integrity for precise financial auditing.
